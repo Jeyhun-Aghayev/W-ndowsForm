@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\csharp\\CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A363DBBD-1E4D-4F14-9834-B9CE5A7F44C3}|DataManager\\DataManager.csproj|c:\\users\\asus\\desktop\\csharp\\csharp\\datamanager\\datamanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A363DBBD-1E4D-4F14-9834-B9CE5A7F44C3}|DataManager\\DataManager.csproj|solutionrelative:datamanager\\datamanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A363DBBD-1E4D-4F14-9834-B9CE5A7F44C3}|DataManager\\DataManager.csproj|c:\\users\\asus\\desktop\\csharp\\csharp\\datamanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A363DBBD-1E4D-4F14-9834-B9CE5A7F44C3}|DataManager\\DataManager.csproj|solutionrelative:datamanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A363DBBD-1E4D-4F14-9834-B9CE5A7F44C3}|DataManager\\DataManager.csproj|c:\\users\\asus\\desktop\\csharp\\csharp\\datamanager\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A363DBBD-1E4D-4F14-9834-B9CE5A7F44C3}|DataManager\\DataManager.csproj|solutionrelative:datamanager\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A363DBBD-1E4D-4F14-9834-B9CE5A7F44C3}|DataManager\\DataManager.csproj|c:\\users\\asus\\desktop\\csharp\\csharp\\datamanager\\insertdataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A363DBBD-1E4D-4F14-9834-B9CE5A7F44C3}|DataManager\\DataManager.csproj|solutionrelative:datamanager\\insertdataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataManager",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\csharp\\CSharp\\DataManager\\DataManager.csproj",
+              "RelativeDocumentMoniker": "DataManager\\DataManager.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\csharp\\CSharp\\DataManager\\DataManager.csproj",
+              "RelativeToolTip": "DataManager\\DataManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T19:55:40.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\csharp\\CSharp\\DataManager\\EditForm.cs",
+              "RelativeDocumentMoniker": "DataManager\\EditForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\csharp\\CSharp\\DataManager\\EditForm.cs [Design]",
+              "RelativeToolTip": "DataManager\\EditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:54:04.492Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\csharp\\CSharp\\DataManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "DataManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\csharp\\CSharp\\DataManager\\MainForm.cs [Design]",
+              "RelativeToolTip": "DataManager\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:54:01.85Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertDataForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\csharp\\CSharp\\DataManager\\InsertDataForm.cs",
+              "RelativeDocumentMoniker": "DataManager\\InsertDataForm.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\csharp\\CSharp\\DataManager\\InsertDataForm.cs [Design]",
+              "RelativeToolTip": "DataManager\\InsertDataForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:54:00.585Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
